@@ -20,17 +20,8 @@ A scientific calculator made in Java utilizing **Java Swing** and **AWT**. It al
 - Logarithm & Exponent Calculation
 - `nth` Fibonacci Term
 
-<div align="center">
-  <img src="images/calculator.png" alt="Calculator" height="350px"/>
-</div>
 
 ## Installation
-
-Clone the project
-
-```bash
- git clone https://github.com/mominaamjad/scientific-calculator.git
-```
 
 Go to the project directory & run
 ```bash
