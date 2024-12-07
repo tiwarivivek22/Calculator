@@ -1,0 +1,39 @@
+# Bytecode files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE-specific directories and files
+/.idea/
+/*.iml
+/.vscode/
+/.project
+/.classpath
+/.settings/
+
+# Build directories
+/target/
+/build/
+/out/
+/bin/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Ignore other generated or sensitive files
+*.generated
